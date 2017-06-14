@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["Sam Alghanmi <oalghnmi@gmail.com>"]
 
 [dependencies]
+mio = { git = "https://github.com/carllerche/mio" }
+rustc-serialize = "0.3.15"
+sha1 = "0.1.1"
